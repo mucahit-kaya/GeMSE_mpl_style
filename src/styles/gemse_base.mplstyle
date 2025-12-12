@@ -1,8 +1,9 @@
 # -------- Fonts --------
 font.family        : serif
-font.serif         : Times New Roman
+#font.serif         : Times New Roman
+font.serif         : STIXGeneral, STIX Two Text, DejaVu Serif
 mathtext.fontset   : stix
-
+text.usetex        : False
 # -------- Figure --------
 figure.figsize     : 6.0, 4.0
 figure.dpi         : 150
